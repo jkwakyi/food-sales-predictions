@@ -1,4 +1,4 @@
-# food-sales-predictions
+# Food-Sales-Predictions
 Sales forecast for food items sold at various franchises under one company.
 
 I wanted to utilize the dataframe in the best way possible so I grouped multiple datapoints together inorder to produce a visualizations that would help me interpret the data and ultimatly find a machine learning model that would forecast sales.
